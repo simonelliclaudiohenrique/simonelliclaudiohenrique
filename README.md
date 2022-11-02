@@ -1,7 +1,34 @@
-# <center>👋🏼 Hello! I'm Claudio Henrique </center>
+<h1 align="center">
+  <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.png" width="50">
+  Hello! I'm Claudio Henrique
+  <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" width="50">
+</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonelliclaudiohenrique&show_icons=true&theme=radical)](https://github.com/simonelliclaudiohenrique/simonelliclaudiohenrique)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonelliclaudiohenrique&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=simonelliclaudiohenrique&show_icons=true&theme=radical">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonelliclaudiohenrique&layout=compact">
+
+<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+
+<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+
+<img align="left" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+
+<img align="left" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF">
+
+<img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+
+<img align="left" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+
+<img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+
+# 💻 Connect with me
+
+<a href="https://www.linkedin.com/in/claudio-henrique-simonelli-570257207/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a href="https://www.facebook.com/claudiohenrique.simonelli"><img  align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 
 <!--
 **simonelliclaudiohenrique/simonelliclaudiohenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
