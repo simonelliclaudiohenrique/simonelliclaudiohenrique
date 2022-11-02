@@ -28,9 +28,9 @@
 
 # 💻 Connect with me
 
-<a href="https://www.linkedin.com/in/claudio-henrique-simonelli-570257207/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/claudio-henrique-simonelli-570257207/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<a href="https://www.facebook.com/claudiohenrique.simonelli" target="_blank"><img  align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href="https://www.facebook.com/claudiohenrique.simonelli"><img  align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 
 <a href="https://www.instagram.com/claudiohenriquesimonelli/"><img  align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
