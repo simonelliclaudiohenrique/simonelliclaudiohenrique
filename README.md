@@ -37,7 +37,7 @@
 <br />
 
 
-## Total de visitas no meu perfil 🔎> <br>
+## Contdor de visitas 🔎> <br>
 <p align="center">
    <img alingn="center" src="https://profile-counter.glitch.me/simonelliclaudiohenrique/count.svg" />
 </p>
