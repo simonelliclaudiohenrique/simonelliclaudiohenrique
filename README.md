@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.png" width="50">
+  🧑🏻‍💻
   Hello! I'm Claudio Henrique
-  <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" width="50">
+  🧑🏻‍💻
 </h1>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=simonelliclaudiohenrique&show_icons=true&theme=radical">
