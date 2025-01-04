@@ -42,14 +42,6 @@
 
 <a href="https://www.instagram.com/claudiohenriquesimonelli/"><img  align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
-<br />
-
-
-## <br>
-<p align="center">
-   <img alingn="center" src="https://profile-counter.glitch.me/simonelliclaudiohenrique/count.svg" />
-</p>
-
 <!--
 **simonelliclaudiohenrique/simonelliclaudiohenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
